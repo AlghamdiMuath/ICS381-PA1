@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 import random
 class ServerAgent:
     def __init__(self, small_count = 10, medium_count=10, large_count=10):
