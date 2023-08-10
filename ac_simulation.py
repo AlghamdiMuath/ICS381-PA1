@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 class SimpleACReflexAgent: 
        def __init__(self, min_threshold, max_threshold):   
            self.min_threshold = min_threshold   
